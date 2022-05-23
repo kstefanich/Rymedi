@@ -15,3 +15,8 @@ doctor who pic
 try again
 
 {% file src=".gitbook/assets/GenFeat-SideMenu2.jpg" %} //caption {% endfile %}
+
+try again again
+
+![GenFeat-SideMenu2](https://user-images.githubusercontent.com/105650529/169890288-13c15f44-c490-4654-8b00-d39d85378073.jpg)
+
