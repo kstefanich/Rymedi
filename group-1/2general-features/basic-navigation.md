@@ -1,1 +1,1 @@
-# General Features
+# Basic Navigation
