@@ -6,4 +6,4 @@
 
 ![](https://user-images.githubusercontent.com/105650529/169867246-2bb8d27f-1a37-4bc3-817c-aaa67b3582e9.png)
 
-{% file src=".gitbook/assets/first test" %} //caption {% endfile %}
+{% file src=".gitbook/assets/first test.png" %} //caption {% endfile %}
