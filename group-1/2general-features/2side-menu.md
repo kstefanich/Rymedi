@@ -10,4 +10,4 @@ insert file
 
 doctor who pic
 
-![hi](<../.gitbook/assets/GenFeat-SideMenu.png>)
+![hi](<../.gitbook/assets/GenFeat-SideMenu2.jpg>)
