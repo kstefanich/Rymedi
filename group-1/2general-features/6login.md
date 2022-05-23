@@ -7,3 +7,4 @@
 {% hint style="warning" %} Log in locks after 4 failed attempts. Ask your Admin to unlock it. {% endhint %}
 
 {% hint style="warning" %} After 10 minutes of inactivity you'll be automatically logout from the platform. {% endhint %}
+
