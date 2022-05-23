@@ -11,3 +11,7 @@ insert file
 doctor who pic
 
 ![hi](<../.gitbook/assets/GenFeat-SideMenu2.jpg>)
+
+try again
+
+{% file src=".gitbook/assets/GenFeat-SideMenu2.jpg" %} //caption {% endfile %}
