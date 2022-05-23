@@ -8,4 +8,4 @@
 
 {% file src=".gitbook/assets/first test.png" %} //caption {% endfile %}
 
-![so let's make it a good one](<../.gitbook/assets/first test.png>)
+![](<../.gitbook/assets/first test.png>)
