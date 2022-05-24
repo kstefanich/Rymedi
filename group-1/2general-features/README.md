@@ -1,5 +1,5 @@
 # General Features
 
-bloop
+{% content-ref url="group-1/2general-features/basic-navigation.md" %}  basic-navigation.md {% endcontent-ref %}
 
-bloop 2
+{% content-ref url="group-1/2general-features/side-menu.md" %}  side-menu.md {% endcontent-ref %}
