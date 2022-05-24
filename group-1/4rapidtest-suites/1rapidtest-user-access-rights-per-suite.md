@@ -1,7 +1,7 @@
 # rapidtest User Access Rights per Suite
 
 
-| User Roles      |   Manufacturer Suite  |    Test Suites  | CLIA Audit | Patient Suite | HR Suite | Patient Info                | Reporting Suite | Admin Suite |
+| **User Roles    |   Manufacturer Suite  |    Test Suites  | CLIA Audit | Patient Suite | HR Suite | Patient Info                | Reporting Suite | Admin Suite** |
 | --------------- | :-------------------: | :-------------: | :--------: | :-----------: | :------: | :-------------------------: | :-------------: | :---------: |
 | Manufacturer    |x                      |                 |            |               |          |                             |x                |
 | Patient         |                       |                 |            |x              |          |                             |                 |
