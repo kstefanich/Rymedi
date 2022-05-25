@@ -4,8 +4,8 @@
 
 - Tap Add new Product button (2).
 
-![](https://user-images.githubusercontent.com/105650529/170116425-312f1ab6-9eb6-44dd-9b8e-32ca6b7a3b28.jpg)
-![](https://user-images.githubusercontent.com/105650529/170116436-17eeef1d-c3bc-4fb3-baae-e18021219b50.jpg)
+![](https://user-images.githubusercontent.com/105650529/170275451-ecd6e352-93b9-46d8-8544-116dda2cb770.jpg)
+![](https://user-images.githubusercontent.com/105650529/170275475-09e7c6ae-1433-4b65-a213-bee408135cda.jpg)
 
 - Enter the product information (3).
 
@@ -19,4 +19,5 @@
 
 - Tap Add Product button (4).
 
-IMAGES
+![](https://user-images.githubusercontent.com/105650529/170116425-312f1ab6-9eb6-44dd-9b8e-32ca6b7a3b28.jpg)
+![](https://user-images.githubusercontent.com/105650529/170116436-17eeef1d-c3bc-4fb3-baae-e18021219b50.jpg)
