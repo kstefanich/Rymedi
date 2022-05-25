@@ -1,6 +1,6 @@
 # Test Suite
 
-{% content-ref url="1initiate-a-est.md" %} 1initiate-a-test.md {% endcontent-ref %}
+{% content-ref url="1initiate-a-test.md" %} 1initiate-a-test.md {% endcontent-ref %}
 
 {% content-ref url="2product-technology-types-antibody-tests.md" %} 2product-technology-types-antibody-tests.md {% endcontent-ref %}
 
