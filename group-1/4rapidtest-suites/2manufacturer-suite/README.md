@@ -8,7 +8,7 @@
 
 {% content-ref url="4product-labels-and-test-kit-results.md" %} 4product-labels-and-test-kit-results.md {% endcontent-ref %}
 
-{% content-ref url="5assigning-products-to-organizaations.md" %} 5assigning-products-to-organizations.md {% endcontent-ref %}
+{% content-ref url="5assigning-products-to-organizations.md" %} 5assigning-products-to-organizations.md {% endcontent-ref %}
 
 {% content-ref url="6enabling-clia-audit.md" %} 6enabling-clia-audit.md {% endcontent-ref %}
 
@@ -18,7 +18,7 @@
 
 {% content-ref url="9edit-or-deactivate-a-product.md" %} 9edit-or-deactivate-a-product.md {% endcontent-ref %}
 
-{% content-ref url="\_1print-labels.md" %} \_1print-labels.md {% endcontent-ref %}
+{% content-ref url="_1print-labels.md" %} _1print-labels.md {% endcontent-ref %}
 
 {% content-ref url="\_2add-a-vaccine-product.md" %} \_2add-a-vaccine-product.md {% endcontent-ref %}
 
