@@ -2,7 +2,7 @@
 
 
 |**Product Attribute \*Mandatory fields**|               **Info**                  |      **Example**     |
-| ------------------------------------- | --------------------------------------- | -------------------- |
+| -------------------------------------- | :-------------------------------------: | -------------------- |
 | Product Code* | The unique code to identify your product on rapidtest platform. | RY-0001 |
 | Product Name* | The product name is a public attribute that the users of the rapidtest platform will see. | Rymedi - Covid19 Antibody Test Kit |
 | Description* | Add a description of your Test Kit. | Antibody Test Kit trough Blood Collection |
