@@ -20,12 +20,12 @@
 
 {% content-ref url="_1print-labels.md" %} _1print-labels.md {% endcontent-ref %}
 
-{% content-ref url="\_2add-a-vaccine-product.md" %} \_2add-a-vaccine-product.md {% endcontent-ref %}
+{% content-ref url="_2add-a-vaccine-product.md" %} _2add-a-vaccine-product.md {% endcontent-ref %}
 
-{% content-ref url="\_3vaccine-attirbutes.md" %} \_3vaccine-attributes.md {% endcontent-ref %}
+{% content-ref url="_3vaccine-attirbutes.md" %} _3vaccine-attributes.md {% endcontent-ref %}
 
-{% content-ref url="\_4vaccine-expiration-date.md" %} \_4vaccine-expiration-date.md {% endcontent-ref %}
+{% content-ref url="_4vaccine-expiration-date.md" %} _4vaccine-expiration-date.md {% endcontent-ref %}
 
-{% content-ref url="\_5vaccine-doses-and-intervals.md" %} \_5vaccine-doses-and-intervals.md {% endcontent-ref %}
+{% content-ref url="_5vaccine-doses-and-intervals.md" %} _5vaccine-doses-and-intervals.md {% endcontent-ref %}
 
-{% content-ref url="\_6deactivate-a-vaccine.md" %} \_6deactivate-a-vaccine.md {% endcontent-ref %}
+{% content-ref url="_6deactivate-a-vaccine.md" %} _6deactivate-a-vaccine.md {% endcontent-ref %}
