@@ -6,7 +6,7 @@
 
 - **C*IgG** = Positive.
 
-- **C*IgM*IgG** = Positive.
+- **C\*IgM\*IgG** = Positive.
 
 - **Damaged/Lost** = Inconclusive.
 
