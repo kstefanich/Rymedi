@@ -6,7 +6,7 @@
 
 - **C*M** = Positive.
 
-- **C*M*G** = Positive.
+- **C\*M\*G** = Positive.
 
 - **Damaged/Lost** = Inconclusive.
 
