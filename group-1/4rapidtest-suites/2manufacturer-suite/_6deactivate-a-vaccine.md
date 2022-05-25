@@ -1,4 +1,4 @@
-# Deactive a Vaccine
+# Deactivate a Vaccine
 
 - Tap Vaccine Management, all displayed vaccines on the vaccine list (1) can be edited or deactivated and additional information are available in the vaccine details.
 
