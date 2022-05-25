@@ -3,7 +3,7 @@
 Rapidtest QR code labels helps organizations to have a correct use of their test kits, avoids fraud, the misinterpretation of the results or mixing patient 
 results between different testing groups or organizations. Each product label will have specific tracking properties. Let's check them!
 
-Products Labels and Organizations: Products follows a hierarchical logic. When an organization creates a product it can only be used within its organization and 
+**Products Labels and Organizations**: Products follows a hierarchical logic. When an organization creates a product it can only be used within its organization and 
 its sub organizations. Products labelled by different organizations won’t be accepted. Main organization Test Kits will work among their sub organizations but 
 the products labelled by sub organizations will only work inside their own organization and not between the other sub organizations.
 
