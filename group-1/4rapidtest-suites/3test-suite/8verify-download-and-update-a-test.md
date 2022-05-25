@@ -1,13 +1,10 @@
 # Verify, Download, and Update a Test
 
-You can use this option to:
+- You can use this option to:
 
     - Verify the Test Kit Authenticity. 
-    
     - Check the Test Kit status.
-    
     - Replace the Test Kit Results file*.
-    
     - Download the Test Kit Results Report.
 
 - Tap Verify Test option (1) on the Top Menu or on the Side Menu.
