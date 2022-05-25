@@ -11,4 +11,3 @@ the products labelled by sub organizations will only work inside their own organ
 from another organization! {% endhint %}
 
 ![](https://user-images.githubusercontent.com/105650529/170283154-a153e6f9-bdf4-4a62-a7e5-e01267bc3eed.png)
-![](https://user-images.githubusercontent.com/105650529/170286697-95ab35c2-c3ee-4e9e-893f-3c7f9aa95f86.png)
