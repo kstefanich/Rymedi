@@ -29,5 +29,3 @@
 {% content-ref url="_5vaccine-doses-and-intervals.md" %} _5vaccine-doses-and-intervals.md {% endcontent-ref %}
 
 {% content-ref url="_6deactivate-a-vaccine.md" %} _6deactivate-a-vaccine.md {% endcontent-ref %} 
-
-bloop
