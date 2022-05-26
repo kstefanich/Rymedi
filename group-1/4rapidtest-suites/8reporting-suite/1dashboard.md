@@ -21,6 +21,9 @@
     
     - **Test Kit Status**: This chart shows you the number of total Initiated, Completed Tests and those awaiting CLIA Audit (if that feature is enabled) at the
       time. 
+      
+   	 {% hint style="info" %} It is important that Initiated, Completed and CLIA Audit tests stay in equilibrium. For example, more Initiated Tests than
+	 Completed Tests could be an indicator that there is a bottleneck in the diagnostic laboratories. {% endhint %}
 
     - **Patient Gender**: This chart shows you how many users of each gender have been registered on the platform.
 
