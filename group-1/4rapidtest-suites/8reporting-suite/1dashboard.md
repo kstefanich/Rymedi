@@ -18,6 +18,8 @@
 
     - **Test Results**: This is a comparative chart between the positive and negative results. An increase of the positive results could mean that there is a cluster of infection in your Testing Group. 
     
+    {% hint style="info" %} Antibody Test Results are updated every day at UTC 0. Antiviral Test Charts are updated every 7 days at UTC 0. {% endhint %}
+    
     - **Test Kit Status**: This chart shows you the number of total Initiated, Completed Tests and those awaiting CLIA Audit (if that feature is enabled) at the time. 
   	  {% hint style="info" %} It is important that Initiated, Completed and CLIA Audit tests stay in equilibrium. For example, more Initiated Tests than 
   	  Completed Tests could be an indicator that there is a bottleneck in the diagnostic laboratories. {% endhint %}
