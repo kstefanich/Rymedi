@@ -16,7 +16,10 @@
 
 {% hint style="info" %} These are the standart reports available:
           - Completed Test by Day.
+         
           - Initiated Tests by Day.
+          
           - Provider Reviewed by Day.
+          
           - Month Test Kit Status Report {% endhint %}
 
