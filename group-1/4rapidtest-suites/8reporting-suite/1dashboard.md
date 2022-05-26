@@ -7,57 +7,57 @@
 
 - In the Dashboard Screen you can check the following charts:
 	
-    - **Patient Registration per Day**: That’s the number of patients that are being registered every day. It counts the new users that have completed the 
+  - **Patient Registration per Day**: That’s the number of patients that are being registered every day. It counts the new users that have completed the 
       registration form, have received a Unique QR-Codes and are ready to be tested.
 
    	 {% hint style="info" %} Check this chart to control any anomalies during the registration process. If the registration flow doesn’t meet your expectations 
    	 maybe some of your target users haven’t received the invitation link. {% endhint %}
 
-    - **Patient Testing per Day**: This is the number of patients that are being tested each day. It is an indicator of how many tests are being initiated every 
+  - **Patient Testing per Day**: This is the number of patients that are being tested each day. It is an indicator of how many tests are being initiated every 
       day, and whether they are still awaiting results or have been completed.
 
-    - **Test Results**: This is a comparative chart between the positive and negative results. An increase of the positive results could mean that there is a
+  - **Test Results**: This is a comparative chart between the positive and negative results. An increase of the positive results could mean that there is a
       cluster of infection in your Testing Group. 
     
-    - **Test Kit Status**: This chart shows you the number of total Initiated, Completed Tests and those awaiting CLIA Audit (if that feature is enabled) at the
+  - **Test Kit Status**: This chart shows you the number of total Initiated, Completed Tests and those awaiting CLIA Audit (if that feature is enabled) at the
       time. 
       
    	 {% hint style="info" %} It is important that Initiated, Completed and CLIA Audit tests stay in equilibrium. For example, more Initiated Tests than
 	 Completed Tests could be an indicator that there is a bottleneck in the diagnostic laboratories. {% endhint %}
 
-    - **Patient Gender**: This chart shows you how many users of each gender have been registered on the platform.
+   - **Patient Gender**: This chart shows you how many users of each gender have been registered on the platform.
 
-    - You can Download the Dashboard reports as a PDF file.
+   - You can Download the Dashboard reports as a PDF file.
     
-    - **Registered**: Total Sum of all registered Patients.
+   - **Registered**: Total Sum of all registered Patients.
 
-    - **Tested Patients**: Total Sum of all tested Patients.
+   - **Tested Patients**: Total Sum of all tested Patients.
     
-    - **Reported**: Total Sum of all Patients that received at least one test result.
+   - **Reported**: Total Sum of all Patients that received at least one test result.
     
-    - **Processing**: Total Sum of all Patients that are awaiting a Result.
+   - **Processing**: Total Sum of all Patients that are awaiting a Result.
     
-    - **Total Patient Tests**: Total Sum of all unique Patients tested.
+   - **Total Patient Tests**: Total Sum of all unique Patients tested.
     
-    - **Test Kits**: Total Sum of all created Test Kit Labels.
+   - **Test Kits**: Total Sum of all created Test Kit Labels.
     
-    - **Sample Initiated**: Total Sum of all Initiated Tests samples.
+   - **Sample Initiated**: Total Sum of all Initiated Tests samples.
     
-    - **CLIA Review**: Total Sum of all Test Kits that need to be CLIA reviewed.
+   - **CLIA Review**: Total Sum of all Test Kits that need to be CLIA reviewed.
     
-    - **CLIA Reject**: Total Sum of all Test Kits that have been rejected in the CLIA review.
+   - **CLIA Reject**: Total Sum of all Test Kits that have been rejected in the CLIA review.
     
-    - **Completed**: Total Sum of all completed Tests.
+   - **Completed**: Total Sum of all completed Tests.
     
-    - **Expired**: Total Sum of all Test Kits that have been initiated and not completed after a few weeks. They are marked as expired.
+   - **Expired**: Total Sum of all Test Kits that have been initiated and not completed after a few weeks. They are marked as expired.
     
-    - **Negative**: Total Sum of all Test Kits with a negative, or not detected, test result.
+   - **Negative**: Total Sum of all Test Kits with a negative, or not detected, test result.
     
-    - **Positive**: Total Sum of all Test Kits with a positive, or detected, test result.
+   - **Positive**: Total Sum of all Test Kits with a positive, or detected, test result.
     
-    - **Inconclusive**: Total Sum of all Test Kits with a inconclusive test result.
+   - **Inconclusive**: Total Sum of all Test Kits with a inconclusive test result.
     
-    - **Invalid**: Total Sum of all Test Kits with an invalid test result.
+   - **Invalid**: Total Sum of all Test Kits with an invalid test result.
 
 - Tap on Dashboard (1) in the side menu to open the Dashboard.
 
