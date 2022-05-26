@@ -5,7 +5,7 @@
 
 - The data can be further filtered by Testing Group, sub organizations and the time frame for more in depth data analysis.
 
-- In the Dashboard Screen you can check the following charts: k
+- In the Dashboard Screen you can check the following charts: 
 	
   - **Patient Registration per Day**: That’s the number of patients that are being registered every day. It counts the new users that have completed the 
       registration form, have received a Unique QR-Codes and are ready to be tested.
@@ -19,12 +19,12 @@
   - **Test Results**: This is a comparative chart between the positive and negative results. An increase of the positive results could mean that there is a
       cluster of infection in your Testing Group. 
       
-         {% hint style="info" %} Antibody Test Results are updated every day at UTC 0. Antiviral Test Charts are updated every 7 days at UTC 0. {% endhint %}
+          {% hint style="info" %} Antibody Test Results are updated every day at UTC 0. Antiviral Test Charts are updated every 7 days at UTC 0. {% endhint %}
     
   - **Test Kit Status**: This chart shows you the number of total Initiated, Completed Tests and those awaiting CLIA Audit (if that feature is enabled) at the
       time. 
       
-         {% hint style="info" %} It is important that Initiated, Completed and CLIA Audit tests stay in equilibrium. For example, more Initiated Tests than
+           {% hint style="info" %} It is important that Initiated, Completed and CLIA Audit tests stay in equilibrium. For example, more Initiated Tests than
 	  Completed Tests could be an indicator that there is a bottleneck in the diagnostic laboratories. {% endhint %}
 
    - **Patient Gender**: This chart shows you how many users of each gender have been registered on the platform.
@@ -43,7 +43,7 @@
     
    - **Test Kits**: Total Sum of all created Test Kit Labels.
 
-          {% hint style="info" %} The total number of tested patients and Test Kits can be different because one patient may have been tested 
+             {% hint style="info" %} The total number of tested patients and Test Kits can be different because one patient may have been tested 
            multiple times. {% endhint %}
     
    - **Sample Initiated**: Total Sum of all Initiated Tests samples.
