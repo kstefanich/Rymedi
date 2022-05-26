@@ -11,4 +11,4 @@
 
 {% hint style="info" %} You can also save your QR code in your Apple or Google wallet (3). {% endhint %}
 
-{% hint style="info" %} No test will be administered without your Patient QR code! {% endhint %}
+{% hint style="warning" %} No test will be administered without your Patient QR code! {% endhint %}
