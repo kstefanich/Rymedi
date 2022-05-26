@@ -19,13 +19,13 @@
   - **Test Results**: This is a comparative chart between the positive and negative results. An increase of the positive results could mean that there is a
       cluster of infection in your Testing Group. 
       
-         {% hint style="info" %} Antibody Test Results are updated every day at UTC 0. Antiviral Test Charts are updated every 7 days at UTC 0. {% endhint %}
+        - {% hint style="info" %} Antibody Test Results are updated every day at UTC 0. Antiviral Test Charts are updated every 7 days at UTC 0. {% endhint %}
     
   - **Test Kit Status**: This chart shows you the number of total Initiated, Completed Tests and those awaiting CLIA Audit (if that feature is enabled) at the
       time. 
       
-   	 {% hint style="info" %} It is important that Initiated, Completed and CLIA Audit tests stay in equilibrium. For example, more Initiated Tests than
-	 Completed Tests could be an indicator that there is a bottleneck in the diagnostic laboratories. {% endhint %}
+        - {% hint style="info" %} It is important that Initiated, Completed and CLIA Audit tests stay in equilibrium. For example, more Initiated Tests than
+	  Completed Tests could be an indicator that there is a bottleneck in the diagnostic laboratories. {% endhint %}
 
    - **Patient Gender**: This chart shows you how many users of each gender have been registered on the platform.
 
@@ -43,8 +43,8 @@
     
    - **Test Kits**: Total Sum of all created Test Kit Labels.
 
-	{% hint style="info" %} The total number of tested patients and Test Kits can be different because one patient may have been tested multiple times. {%
-	endhint %}
+         - {% hint style="info" %} The total number of tested patients and Test Kits can be different because one patient may have been tested 
+           multiple times. {% endhint %}
     
    - **Sample Initiated**: Total Sum of all Initiated Tests samples.
     
