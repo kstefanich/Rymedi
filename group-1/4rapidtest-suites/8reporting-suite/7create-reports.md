@@ -15,6 +15,7 @@
 ![](https://user-images.githubusercontent.com/105650529/170555678-b18edd97-003f-4b94-a9ad-41f64ea3c38d.jpg)
 
 {% hint style="info" %} These are the standart reports available:
+
           - Completed Test by Day.
          
           - Initiated Tests by Day.
