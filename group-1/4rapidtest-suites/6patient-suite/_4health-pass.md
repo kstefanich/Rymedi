@@ -5,8 +5,11 @@
 - Colors Logic:
 
   **Green**: If the last test result is negative.
+  
   **Yellow**: If the last negative result is older than 5 days.
+  
   **Orange**: If the last negative result is older than 10 days.
+  
   **Red**: If the test result is positive.
 
 ![](https://user-images.githubusercontent.com/105650529/170518314-af863eb1-5af4-4f44-be02-4400d00e9cd8.jpg)
