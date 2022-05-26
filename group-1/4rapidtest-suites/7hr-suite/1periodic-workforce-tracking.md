@@ -12,7 +12,7 @@
     - **Employees List**: You can arrange your employee list by different health attributes. This page provides the HR Manager an overview over the current 
       health status of the workforce, including test results and health scores.
       
-      | Last Reported Symptoms | Last Test | Test Result | Last Health Score |
+      | **Last Reported Symptoms** | **Last Test** | **Test Result** | **Last Health Score** |
       | ---------------------- | --------- | ----------- | ----------------- |
       | The last time when the user reported their symptoms via the app. | The last time a user completed a test. | The Test Result of the most recent test. | The current health score based on the reported symptoms. |
 
