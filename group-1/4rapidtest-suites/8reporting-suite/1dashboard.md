@@ -16,10 +16,9 @@
   - **Patient Testing per Day**: This is the number of patients that are being tested each day. It is an indicator of how many tests are being initiated every 
       day, and whether they are still awaiting results or have been completed.
 
-  - **Test Results**: This is a comparative chart between the positive and negative results. An increase of the positive results could mean that there is a
-      cluster of infection in your Testing Group. 
-      
-        {% hint style="info" %} Antibody Test Results are updated every day at UTC 0. Antiviral Test Charts are updated every 7 days at UTC 0. {% endhint %}
+  - **Test Results**: This is a comparative chart between the positive and negative results. An increase of the positive results could mean that there is a cluster of infection in your Testing Group.
+  
+   	{% hint style="info" %} Antibody Test Results are updated every day at UTC 0. Antiviral Test Charts are updated every 7 days at UTC 0. {% endhint %}
     
   - **Test Kit Status**: This chart shows you the number of total Initiated, Completed Tests and those awaiting CLIA Audit (if that feature is enabled) at the
       time. 
