@@ -10,8 +10,8 @@
     - **Patient Registration per Day**: That’s the number of patients that are being registered every day. It counts the new users that have completed the 
       registration form, have received a Unique QR-Codes and are ready to be tested.
 
-    {% hint style="info" %} Check this chart to control any anomalies during the registration process. If the registration flow doesn’t meet your expectations 
-    maybe some of your target users haven’t received the invitation link. {% endhint %}
+   	 {% hint style="info" %} Check this chart to control any anomalies during the registration process. If the registration flow doesn’t meet your expectations 
+   	 maybe some of your target users haven’t received the invitation link. {% endhint %}
 
     - **Patient Testing per Day**: This is the number of patients that are being tested each day. It is an indicator of how many tests are being initiated every 
       day, and whether they are still awaiting results or have been completed.
@@ -19,7 +19,7 @@
     - **Test Results**: This is a comparative chart between the positive and negative results. An increase of the positive results could mean that there is a 
       cluster of infection in your Testing Group.
 
-    {% hint style="info" %} Antibody Test Results are updated every day at UTC 0. Antiviral Test Charts are updated every 7 days at UTC 0. {% endhint %}
+  	  {% hint style="info" %} Antibody Test Results are updated every day at UTC 0. Antiviral Test Charts are updated every 7 days at UTC 0. {% endhint %}
 
     - **Test Kit Status**: This chart shows you the number of total Initiated, Completed Tests and those awaiting CLIA Audit (if that feature is enabled) at the
       time. 
