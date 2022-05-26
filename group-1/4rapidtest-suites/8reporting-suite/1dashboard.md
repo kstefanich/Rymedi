@@ -5,7 +5,7 @@
 
 - The data can be further filtered by Testing Group, sub organizations and the time frame for more in depth data analysis.
 
-- In the Dashboard Screen you can check the following charts:
+- In the Dashboard Screen you can check the following charts: k
 	
   - **Patient Registration per Day**: That’s the number of patients that are being registered every day. It counts the new users that have completed the 
       registration form, have received a Unique QR-Codes and are ready to be tested.
