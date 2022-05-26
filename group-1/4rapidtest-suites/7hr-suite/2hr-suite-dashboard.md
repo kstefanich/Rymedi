@@ -15,10 +15,5 @@
       
     - Antibody Tests: The number of Antibody Tests that have been administered and how many positive results have been found that day as well as total number of 
       Antibody Tests administered to date. The counter resets at the end of the day.
-      
-      {% hint style="info" %} The Antibody Chart is automatically updated every day at 0 UCT. {% endhint %}
-      
-      {% hint style="info" %} Note that Admins are not counted as employees. However, HR Managers are counted as employees and should report their health 
-      status as well. {% endhint %}
      
     - You can Download the HR Suite Dashboard reports as a PDF file.
