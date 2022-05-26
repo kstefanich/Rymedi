@@ -16,7 +16,11 @@
     - **Patient Testing per Day**: This is the number of patients that are being tested each day. It is an indicator of how many tests are being initiated every 
       day, and whether they are still awaiting results or have been completed.
 
-
+    - **Test Results**: This is a comparative chart between the positive and negative results. An increase of the positive results could mean that there is a
+      cluster of infection in your Testing Group. 
+    
+    - **Test Kit Status**: This chart shows you the number of total Initiated, Completed Tests and those awaiting CLIA Audit (if that feature is enabled) at the
+      time. 
 
     - **Patient Gender**: This chart shows you how many users of each gender have been registered on the platform.
 
@@ -33,9 +37,6 @@
     - **Total Patient Tests**: Total Sum of all unique Patients tested.
     
     - **Test Kits**: Total Sum of all created Test Kit Labels.
-    
-    	 {% hint style="info" %} The total number of tested patients and Test Kits can be different because one patient may have been tested multiple 
-   	 times. {% endhint %}
     
     - **Sample Initiated**: Total Sum of all Initiated Tests samples.
     
