@@ -40,4 +40,4 @@
 
 {% content-ref url="__2add-additional-note-in-a-patient-result.md" %} __2add-additional-note-in-a-patient-result.md {% endcontent-ref %}
 
-bloop
+
