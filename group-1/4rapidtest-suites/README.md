@@ -4,13 +4,22 @@
 
 The Rymedi rapidtest Platform has multiple modules covering different work streams and User Groups. Modules are accessible based on the User Role.
 
+1. h
+2. h
+3. h
+4. h
+5. h
+6. h
+7. h
+8. h
+
 1. Manufactuer Suite - Manage Products and print Test Kit Labels.
 
-{% content-ref url="2manufacturer-suite" %} 2manufacturer-suite {% endcontent-ref %}
+   {% content-ref url="2manufacturer-suite" %} 2manufacturer-suite {% endcontent-ref %}
 
 2. Test Suite - Verify test authenticity, Administer new tests and move to CLIA Audit.
 
-{% content-ref url="3test-suite" %} 3test-suite {% endcontent-ref %}
+   {% content-ref url="3test-suite" %} 3test-suite {% endcontent-ref %}
 
 3. Vaccine Suite – Pre-Vaccination screening, adminster vaccines and history.
 
