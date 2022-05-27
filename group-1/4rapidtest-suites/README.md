@@ -4,6 +4,16 @@
 
 The Rymedi rapidtest Platform has multiple modules covering different work streams and User Groups. Modules are accessible based on the User Role.
 
+1. Manufactuer Suite - Manage Products and print Test Kit Labels.
+
+LINK
+
+2. Test Suite - Verify test authenticity, Administer new tests and move to CLIA Audit.
+
+LINK
+
+3. bloop
+
     1. Manufacturer Suite - Manage Products and print Test Kit labels.
 
      {% content-ref url="2manufacturer-suite" %} 2manufacturer-suite {% endcontent-ref %}
