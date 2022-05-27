@@ -2,7 +2,7 @@
 
 **Overview**
 
-The Rymedi rapidtest Platform has multiple modules covering different work streams and User Groups. Modules are accessible based on the User Role.
+The Rymedi rapidtest Platform has multiple modules covering different work streams and User Groups. Modules are accessible based on the User Role. k
 
 1. h
 
