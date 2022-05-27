@@ -1,4 +1,4 @@
-# Vaccination Suite
+# Vaccine Suite
 
 {% content-ref url="1general-features.md" %} 1general-features.md {% endcontent-ref %}
 
