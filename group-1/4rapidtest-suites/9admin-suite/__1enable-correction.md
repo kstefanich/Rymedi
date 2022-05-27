@@ -15,4 +15,20 @@
 
 {% hint style="info" %} All these updates are registered in the blockchain. {% endhint %}
 
+- In the Administration menu click on Enable Correction (1).
+
+![](https://user-images.githubusercontent.com/105650529/170729232-61460791-ee48-4ff1-ae69-d467864e4fdc.jpg)
+
+- Scan or type the Test Kit Id Code that needs to be corrected (2).
+
+![](https://user-images.githubusercontent.com/105650529/170729521-f2cc1596-015a-4462-88bc-65d89c3c37fb.jpg)
+
+- Add a message explaining the purpose of the correction (3).
+
+- Tap Save button (4). The status of the Test Kit will be changed to Correction. 
+
+![](https://user-images.githubusercontent.com/105650529/170729525-0bcaa2cf-389a-47bf-acf2-cc22481d0ce2.jpg)
+
+{% hint style="info" %} Now you can tell the HCP to made the needed changes! {% endhint %}
+
 
