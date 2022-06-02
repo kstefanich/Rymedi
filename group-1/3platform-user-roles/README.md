@@ -1,6 +1,6 @@
-# rapidtest User Roles
+# Platform User Roles
 
-The Rymedi rapidtest Platform has the following User Roles:
+The Rymedi Platform has the following User Roles:
 
 * Manufacturer - Manages Products and can Print Labels.
 * HCP - Health Care Professional who administers the tests.
