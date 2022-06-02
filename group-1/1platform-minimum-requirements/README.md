@@ -1,4 +1,4 @@
-# rapidtest Minimum Requirements
+# Platform Minimum Requirements
 
 The Rymedi rapidtest application is a modern, web-based application that only requires a currently supported web browser for basic functionality.​
 
