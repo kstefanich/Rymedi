@@ -1,4 +1,4 @@
-# rapidtest User Access Rights per Suite
+# Platform User Access Rights per Suite
 
 
 | **User Roles**  | **Manufacturer Suite**|  **Test Suites**|**CLIA Audit**|**Patient Suite**|**HR Suite**| **Patient Info**  | **Reporting Suite** | **Admin Suite** |
