@@ -2,7 +2,7 @@
 
 **Overview**
 
-The Rymedi Platform has multiple modules covering different work streams and User Groups. Modules are accessible based on the User Role. 
+The Rymedi Platform has multiple modules covering different work streams and User Groups. Modules are accessible based on the User Role. k
 
 -  Manufactuer Suite - Manage Products and print Test Kit Labels.
 
